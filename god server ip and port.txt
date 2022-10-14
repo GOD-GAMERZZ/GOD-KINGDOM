@@ -1,0 +1,3 @@
+server ip : GODGAMERZZ.aternos.me
+server port: 33101
+server name: god kingdom
